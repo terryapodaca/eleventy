@@ -1,6 +1,7 @@
 {
   "name": "eleventy",
   "version": "1.0.0",
+  "author": "Terry Apodaca <>",
   "homepage": "https://terryapodaca.com/",
   "license": "ISC",
   "description": "",
@@ -11,10 +12,9 @@
     "build": "eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  "author": "",
-
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
-  }
+  },
+  "dependencies": {},
+  "files": []
 }
